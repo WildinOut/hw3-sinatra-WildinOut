@@ -7,7 +7,7 @@ Hangperson: a scaffolded (!) ESaaS getting-started assignment
 
 In this assignment you'll be introduced to part of the basic cycle of creating SaaS in a disciplined way.
 
-**NOTE: Do not clone this repo to your workspace. Fork it first, then clone your fork.**
+**NOTE: Clone this repo to your workspace in the same manner as previous assignments.**
 
 
 
